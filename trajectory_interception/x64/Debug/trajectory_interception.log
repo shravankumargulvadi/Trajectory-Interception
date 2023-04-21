@@ -1,0 +1,3 @@
+﻿  MazeMain.cpp
+F:\Projects\trajectory_interception_project\trajectory_interception\MazeMain.cpp(35): warning C4715: 'Menu': not all control paths return a value
+  trajectory_interception.vcxproj -> F:\Projects\trajectory_interception_project\trajectory_interception\x64\Debug\trajectory_interception.exe
